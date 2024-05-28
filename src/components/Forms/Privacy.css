@@ -1,0 +1,25 @@
+.heading1{
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 40px 300px 60px 300px;
+    font-size: 20px;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+}
+.cont1{
+    background-color: #B7E4F287;
+}
+.cont3{
+    background: #121F3F;
+    color: white;
+}
+

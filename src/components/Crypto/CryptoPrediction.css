@@ -1,0 +1,78 @@
+.main-data
+{
+    margin: 70px 100px 20px 100px;
+}
+.crypto_information
+{
+    display: flex;
+    flex-direction: row;
+}
+.crypto-logo
+{
+    padding-right: 20px;
+}
+.crypto-name
+{
+    padding-top: 10px;
+}
+.crypto-name h4
+{
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+.crypto-name h5
+{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Roboto, Arial, sans-serif';
+    color: green;
+}
+.duration
+{
+    display: flex;
+    flex-direction: row;
+    /* background-color: red; */
+    justify-content: space-between;
+    padding-left: 270px;
+    padding-right: 270px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+.duration button
+{
+    border: none;
+    background-color: rgb(250, 244, 244);
+    font-family: 'Roboto, Arial, sans-serif';
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+h2{
+    font-family: 'Roboto, Arial, sans-serif';
+    font-size: 25px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.crypto-pred-main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 170px 30px 170px;
+}
+.crypto-pred h6
+{
+    font-family: 'Roboto, Arial, sans-serif';
+    font-weight: 800;
+    font-size: 19px;
+}
+.crypto-pred h5
+{
+    font-family: 'Roboto, Arial, sans-serif';
+    font-weight: 500;
+    font-size: 17px;
+}
+

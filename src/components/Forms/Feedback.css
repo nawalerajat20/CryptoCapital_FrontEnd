@@ -1,0 +1,64 @@
+.feedback{
+    align-items: center;
+    border: 1px solid black;
+    margin: 40px 450px 50px 450px;
+    border-radius: 5px;
+    border-color: rgb(152, 155, 158);
+    text-align: center;
+    box-shadow: 5px 5px rgb(223, 224, 227);
+}
+
+.FeedHead{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 80px;
+    padding-bottom: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.que{
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.emojis{
+    font-size: 50px;
+}
+textarea{
+    padding: 10px 0px 0px 30px;
+    border-radius: 10px;
+    width: 60%;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.but{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.button1{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    background-color: #00BDF9;
+    border: none;
+    border-radius: 8px;
+    margin-right: 20px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+.button2{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
